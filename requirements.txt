@@ -7,4 +7,4 @@ langchain-community
 langchain-text-splitters
 pypdf
 docx2txt
-torch
+protobuf==3.20.3
