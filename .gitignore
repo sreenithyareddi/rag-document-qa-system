@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+chroma_db/
+.ipynb_checkpoints/
+__pycache__/
+.env
+RAG_Document_QA_System.ipynb
